@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '百事达BeSeDa',
-  domain: 'https://www.notion.so/18181e700a9e4f5c970f63d3f5a0c1c2',
+  domain: 'www.beseda.com.cn',
   author: 'DaXin',
 
   // open graph metadata (optional)
